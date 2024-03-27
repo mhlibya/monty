@@ -36,4 +36,6 @@ typedef struct instruction_s
 } instruction_t;
 
 char *content_of(char *filename);
+
+
 #endif
